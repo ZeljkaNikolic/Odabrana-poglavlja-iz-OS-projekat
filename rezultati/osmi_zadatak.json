@@ -1,0 +1,20 @@
+{
+    "instrumental_genres": {
+        "count": 4,
+        "genres": [
+            "classical",
+            "new-age",
+            "romance",
+            "tango"
+        ],
+        "average_popularity": 16.309
+    },
+    "vocal_heavy_genres": {
+        "count": 1,
+        "genres": [
+            "comedy"
+        ],
+        "average_popularity": 24.628
+    },
+    "conclusion": "Vokalno teški žanrovi imaju veću prosječnu popularnost."
+}

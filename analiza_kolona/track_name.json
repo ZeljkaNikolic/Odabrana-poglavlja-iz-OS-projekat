@@ -1,0 +1,27 @@
+{
+    "tip": "String",
+    "broj_null_vrijednosti": 1,
+    "broj_razlicitih_vrijednosti": 73609,
+    "top_5_frekventnih": [
+        {
+            "track_name": "Run Rudolph Run",
+            "count": 151
+        },
+        {
+            "track_name": "Halloween",
+            "count": 88
+        },
+        {
+            "track_name": "Frosty The Snowman",
+            "count": 81
+        },
+        {
+            "track_name": "Little Saint Nick - 1991 Remix",
+            "count": 76
+        },
+        {
+            "track_name": "Last Last",
+            "count": 75
+        }
+    ]
+}

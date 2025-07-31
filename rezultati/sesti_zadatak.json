@@ -1,0 +1,90 @@
+[
+    {
+        "popularity_bin": 0,
+        "non_explicit_count": 20886,
+        "avg_valence_non_explicit": 0.5058986728288569,
+        "explicit_count": 1843,
+        "avg_valence_explicit": 0.510694900220356,
+        "valence_diff": 0.004796227391499097
+    },
+    {
+        "popularity_bin": 10,
+        "non_explicit_count": 8837,
+        "avg_valence_non_explicit": 0.4445166120201744,
+        "explicit_count": 501,
+        "avg_valence_explicit": 0.336543712928564,
+        "valence_diff": -0.1079728990916104
+    },
+    {
+        "popularity_bin": 20,
+        "non_explicit_count": 16615,
+        "avg_valence_non_explicit": 0.4693521155658032,
+        "explicit_count": 1805,
+        "avg_valence_explicit": 0.44598182807689396,
+        "valence_diff": -0.023370287488909236
+    },
+    {
+        "popularity_bin": 30,
+        "non_explicit_count": 13929,
+        "avg_valence_non_explicit": 0.5102801830793178,
+        "explicit_count": 997,
+        "avg_valence_explicit": 0.4945071208418731,
+        "valence_diff": -0.01577306223744468
+    },
+    {
+        "popularity_bin": 40,
+        "non_explicit_count": 17932,
+        "avg_valence_non_explicit": 0.4634994891267658,
+        "explicit_count": 1288,
+        "avg_valence_explicit": 0.48520854039418493,
+        "valence_diff": 0.02170905126741912
+    },
+    {
+        "popularity_bin": 50,
+        "non_explicit_count": 13148,
+        "avg_valence_non_explicit": 0.4202858229198487,
+        "explicit_count": 1397,
+        "avg_valence_explicit": 0.4464134570496502,
+        "valence_diff": 0.026127634129801514
+    },
+    {
+        "popularity_bin": 60,
+        "non_explicit_count": 8317,
+        "avg_valence_non_explicit": 0.46915253589916656,
+        "explicit_count": 1033,
+        "avg_valence_explicit": 0.47152313688861897,
+        "valence_diff": 0.0023706009894524094
+    },
+    {
+        "popularity_bin": 70,
+        "non_explicit_count": 3678,
+        "avg_valence_non_explicit": 0.49930481477805616,
+        "explicit_count": 593,
+        "avg_valence_explicit": 0.5177853291706633,
+        "valence_diff": 0.018480514392607172
+    },
+    {
+        "popularity_bin": 80,
+        "non_explicit_count": 846,
+        "avg_valence_non_explicit": 0.5274767138231238,
+        "explicit_count": 257,
+        "avg_valence_explicit": 0.4979038905598774,
+        "valence_diff": -0.029572823263246395
+    },
+    {
+        "popularity_bin": 90,
+        "non_explicit_count": 63,
+        "avg_valence_non_explicit": 0.44612539405860596,
+        "explicit_count": 33,
+        "avg_valence_explicit": 0.4328787877704158,
+        "valence_diff": -0.013246606288190188
+    },
+    {
+        "popularity_bin": 100,
+        "non_explicit_count": 2,
+        "avg_valence_non_explicit": 0.23800000548362732,
+        "explicit_count": null,
+        "avg_valence_explicit": null,
+        "valence_diff": null
+    }
+]

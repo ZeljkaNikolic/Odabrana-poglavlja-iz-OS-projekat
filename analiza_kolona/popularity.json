@@ -1,0 +1,17 @@
+{
+    "tip": "Numerička",
+    "broj_null_vrijednosti": 0,
+    "osnovna_statistika": {
+        "count": "114000",
+        "mean": "33.2385350877193",
+        "stddev": "22.305078493372324",
+        "min": "0",
+        "max": "100"
+    },
+    "percentili": {
+        "Q1": 18.0,
+        "median": 35.0,
+        "Q3": 50.0,
+        "IQR": 32.0
+    }
+}

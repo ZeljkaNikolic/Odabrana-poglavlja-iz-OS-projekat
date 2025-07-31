@@ -1,0 +1,102 @@
+[
+    {
+        "track_name": "House of Om - Mark Farina - Continuous Mix",
+        "track_genre": "chicago-house",
+        "duration_min": 74.125,
+        "danceability": 0.8610000014305115,
+        "popularity": 11,
+        "avg_genre_popularity": 12.339,
+        "popularity_diff": -1.3390000000000004,
+        "is_more_popular_than_genre_avg": false
+    },
+    {
+        "track_name": "Live In Tokyo - Continuous Mix",
+        "track_genre": "chicago-house",
+        "duration_min": 72.33,
+        "danceability": 0.8059999942779541,
+        "popularity": 11,
+        "avg_genre_popularity": 12.339,
+        "popularity_diff": -1.3390000000000004,
+        "is_more_popular_than_genre_avg": false
+    },
+    {
+        "track_name": "Greenhouse Construction",
+        "track_genre": "chicago-house",
+        "duration_min": 72.245,
+        "danceability": 0.8460000157356262,
+        "popularity": 12,
+        "avg_genre_popularity": 12.339,
+        "popularity_diff": -0.3390000000000004,
+        "is_more_popular_than_genre_avg": false
+    },
+    {
+        "track_name": "Reggae Dancehall Riddim: Nanny Goat",
+        "track_genre": "dancehall",
+        "duration_min": 38.48,
+        "danceability": 0.8569999933242798,
+        "popularity": 27,
+        "avg_genre_popularity": 33.467,
+        "popularity_diff": -6.466999999999999,
+        "is_more_popular_than_genre_avg": false
+    },
+    {
+        "track_name": "Various Mixed KDJ Rarities",
+        "track_genre": "detroit-techno",
+        "duration_min": 17.095,
+        "danceability": 0.8169999718666077,
+        "popularity": 5,
+        "avg_genre_popularity": 11.174,
+        "popularity_diff": -6.1739999999999995,
+        "is_more_popular_than_genre_avg": false
+    },
+    {
+        "track_name": "Higher - Steve Silk Hurley Journey To Heaven",
+        "track_genre": "chicago-house",
+        "duration_min": 13.812,
+        "danceability": 0.9079999923706055,
+        "popularity": 15,
+        "avg_genre_popularity": 12.339,
+        "popularity_diff": 2.6609999999999996,
+        "is_more_popular_than_genre_avg": true
+    },
+    {
+        "track_name": "Higher - Steve Silk Hurley Journey To Heaven",
+        "track_genre": "chicago-house",
+        "duration_min": 13.812,
+        "danceability": 0.9089999794960022,
+        "popularity": 7,
+        "avg_genre_popularity": 12.339,
+        "popularity_diff": -5.339,
+        "is_more_popular_than_genre_avg": false
+    },
+    {
+        "track_name": "Psika",
+        "track_genre": "minimal-techno",
+        "duration_min": 13.612,
+        "danceability": 0.8109999895095825,
+        "popularity": 34,
+        "avg_genre_popularity": 34.022,
+        "popularity_diff": -0.021999999999998465,
+        "is_more_popular_than_genre_avg": false
+    },
+    {
+        "track_name": "When The Going Is Smooth & Good",
+        "track_genre": "afrobeat",
+        "duration_min": 12.897,
+        "danceability": 0.8259999752044678,
+        "popularity": 17,
+        "avg_genre_popularity": 24.399,
+        "popularity_diff": -7.399000000000001,
+        "is_more_popular_than_genre_avg": false
+    },
+    {
+        "track_name": "Falling Up - Theo Parrish 2013 Remaster",
+        "track_genre": "detroit-techno",
+        "duration_min": 12.737,
+        "danceability": 0.8619999885559082,
+        "popularity": 11,
+        "avg_genre_popularity": 11.174,
+        "popularity_diff": -0.1739999999999995,
+        "is_more_popular_than_genre_avg": false
+    }
+]

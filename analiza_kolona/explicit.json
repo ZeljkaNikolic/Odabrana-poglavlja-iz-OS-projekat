@@ -1,0 +1,14 @@
+{
+    "tip": "Boolean",
+    "broj_null_vrijednosti": 0,
+    "frekvencije": [
+        {
+            "explicit": false,
+            "count": 104253
+        },
+        {
+            "explicit": true,
+            "count": 9747
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "tip": "String",
+    "broj_null_vrijednosti": 0,
+    "broj_razlicitih_vrijednosti": 114,
+    "top_5_frekventnih": [
+        {
+            "track_genre": "anime",
+            "count": 1000
+        },
+        {
+            "track_genre": "singer-songwriter",
+            "count": 1000
+        },
+        {
+            "track_genre": "folk",
+            "count": 1000
+        },
+        {
+            "track_genre": "hardstyle",
+            "count": 1000
+        },
+        {
+            "track_genre": "pop",
+            "count": 1000
+        }
+    ]
+}

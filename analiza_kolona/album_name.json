@@ -1,0 +1,27 @@
+{
+    "tip": "String",
+    "broj_null_vrijednosti": 1,
+    "broj_razlicitih_vrijednosti": 46590,
+    "top_5_frekventnih": [
+        {
+            "album_name": "Alternative Christmas 2022",
+            "count": 195
+        },
+        {
+            "album_name": "Feliz Cumpleaños con Perreo",
+            "count": 184
+        },
+        {
+            "album_name": "Metal",
+            "count": 143
+        },
+        {
+            "album_name": "Halloween con perreito",
+            "count": 123
+        },
+        {
+            "album_name": "Halloween Party 2022",
+            "count": 115
+        }
+    ]
+}

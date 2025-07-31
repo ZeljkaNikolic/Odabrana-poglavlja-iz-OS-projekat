@@ -1,0 +1,82 @@
+[
+    {
+        "artists": "Drifting Cowboys;Hank Williams",
+        "least_popular_artist": "Hank Williams",
+        "count": 105,
+        "avg_collab_popularity": 21.885714285714286,
+        "avg_solo_popularity": 13.385714285714286,
+        "popularity_diff": 8.5
+    },
+    {
+        "artists": "Danielle Laval;Wolfgang Amadeus Mozart",
+        "least_popular_artist": "Wolfgang Amadeus Mozart",
+        "count": 84,
+        "avg_collab_popularity": 11.011904761904763,
+        "avg_solo_popularity": 35.0,
+        "popularity_diff": -23.988095238095237
+    },
+    {
+        "artists": "Bad Bunny;Daddy Yankee",
+        "least_popular_artist": "Daddy Yankee",
+        "count": 78,
+        "avg_collab_popularity": 9.26923076923077,
+        "avg_solo_popularity": 15.214285714285714,
+        "popularity_diff": -5.9450549450549435
+    },
+    {
+        "artists": "Bad Bunny;Jhayco",
+        "least_popular_artist": "Jhayco",
+        "count": 72,
+        "avg_collab_popularity": 12.23611111111111,
+        "avg_solo_popularity": 0.43548387096774194,
+        "popularity_diff": 11.800627240143369
+    },
+    {
+        "artists": "Anderson .Paak;Bruno Mars;Silk Sonic",
+        "least_popular_artist": "Bruno Mars",
+        "count": 59,
+        "avg_collab_popularity": 2.76271186440678,
+        "avg_solo_popularity": 35.666666666666664,
+        "popularity_diff": -32.90395480225988
+    },
+    {
+        "artists": "Charli XCX;Tiësto",
+        "least_popular_artist": "Charli XCX",
+        "count": 56,
+        "avg_collab_popularity": 6.125,
+        "avg_solo_popularity": 0.5555555555555556,
+        "popularity_diff": 5.569444444444445
+    },
+    {
+        "artists": "Bad Bunny;J Balvin",
+        "least_popular_artist": "J Balvin",
+        "count": 55,
+        "avg_collab_popularity": 10.381818181818181,
+        "avg_solo_popularity": 7.375,
+        "popularity_diff": 3.006818181818181
+    },
+    {
+        "artists": "Anuel AA;Jhayco",
+        "least_popular_artist": "Jhayco",
+        "count": 54,
+        "avg_collab_popularity": 3.3333333333333335,
+        "avg_solo_popularity": 0.43548387096774194,
+        "popularity_diff": 2.8978494623655915
+    },
+    {
+        "artists": "Blake Rules;Netherfriends",
+        "least_popular_artist": "Blake Rules",
+        "count": 54,
+        "avg_collab_popularity": 11.055555555555555,
+        "avg_solo_popularity": 9.5,
+        "popularity_diff": 1.5555555555555554
+    },
+    {
+        "artists": "David Guetta;Robin Schulz",
+        "least_popular_artist": "David Guetta",
+        "count": 52,
+        "avg_collab_popularity": 3.480769230769231,
+        "avg_solo_popularity": 24.0,
+        "popularity_diff": -20.51923076923077
+    }
+]

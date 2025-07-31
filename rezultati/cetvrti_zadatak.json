@@ -1,0 +1,1142 @@
+[
+    {
+        "track_genre": "acoustic",
+        "non_explicit_count": 948,
+        "non_explicit_avg": 43.14873417721519,
+        "explicit_count": 52,
+        "explicit_avg": 30.346153846153847,
+        "explicit_popularity_corr": -0.17193264328187735,
+        "popularity_diff": -12.802580331061343,
+        "explicit_effect": "weak_negative"
+    },
+    {
+        "track_genre": "afrobeat",
+        "non_explicit_count": 982,
+        "non_explicit_avg": 24.359470468431773,
+        "explicit_count": 18,
+        "explicit_avg": 26.555555555555557,
+        "explicit_popularity_corr": 0.02778747918449245,
+        "popularity_diff": 2.196085087123784,
+        "explicit_effect": "neutral"
+    },
+    {
+        "track_genre": "alt-rock",
+        "non_explicit_count": 944,
+        "non_explicit_avg": 33.623940677966104,
+        "explicit_count": 56,
+        "explicit_avg": 39.32142857142857,
+        "explicit_popularity_corr": 0.04206961307991486,
+        "popularity_diff": 5.6974878934624655,
+        "explicit_effect": "neutral"
+    },
+    {
+        "track_genre": "alternative",
+        "non_explicit_count": 836,
+        "non_explicit_avg": 24.55263157894737,
+        "explicit_count": 164,
+        "explicit_avg": 23.23780487804878,
+        "explicit_popularity_corr": -0.01491423805792584,
+        "popularity_diff": -1.314826700898589,
+        "explicit_effect": "neutral"
+    },
+    {
+        "track_genre": "ambient",
+        "non_explicit_count": 995,
+        "non_explicit_avg": 44.12562814070352,
+        "explicit_count": 5,
+        "explicit_avg": 57.2,
+        "explicit_popularity_corr": 0.05148534171715757,
+        "popularity_diff": 13.074371859296484,
+        "explicit_effect": "weak_positive"
+    },
+    {
+        "track_genre": "anime",
+        "non_explicit_count": 945,
+        "non_explicit_avg": 48.82962962962963,
+        "explicit_count": 55,
+        "explicit_avg": 47.78181818181818,
+        "explicit_popularity_corr": -0.020234795946551833,
+        "popularity_diff": -1.0478114478114477,
+        "explicit_effect": "neutral"
+    },
+    {
+        "track_genre": "black-metal",
+        "non_explicit_count": 869,
+        "non_explicit_avg": 22.17836593785961,
+        "explicit_count": 131,
+        "explicit_avg": 24.244274809160306,
+        "explicit_popularity_corr": 0.074103807538196,
+        "popularity_diff": 2.065908871300696,
+        "explicit_effect": "weak_positive"
+    },
+    {
+        "track_genre": "bluegrass",
+        "non_explicit_count": 995,
+        "non_explicit_avg": 25.68643216080402,
+        "explicit_count": 5,
+        "explicit_avg": 23.6,
+        "explicit_popularity_corr": -0.01853397254056066,
+        "popularity_diff": -2.0864321608040193,
+        "explicit_effect": "neutral"
+    },
+    {
+        "track_genre": "blues",
+        "non_explicit_count": 986,
+        "non_explicit_avg": 30.93103448275862,
+        "explicit_count": 14,
+        "explicit_avg": 49.285714285714285,
+        "explicit_popularity_corr": 0.07850234706676167,
+        "popularity_diff": 18.354679802955665,
+        "explicit_effect": "weak_positive"
+    },
+    {
+        "track_genre": "brazil",
+        "non_explicit_count": 914,
+        "non_explicit_avg": 44.49124726477024,
+        "explicit_count": 86,
+        "explicit_avg": 46.56976744186046,
+        "explicit_popularity_corr": 0.06261303001283115,
+        "popularity_diff": 2.078520177090226,
+        "explicit_effect": "weak_positive"
+    },
+    {
+        "track_genre": "breakbeat",
+        "non_explicit_count": 952,
+        "non_explicit_avg": 20.02310924369748,
+        "explicit_count": 48,
+        "explicit_avg": 22.104166666666668,
+        "explicit_popularity_corr": 0.034620134190862864,
+        "popularity_diff": 2.081057422969188,
+        "explicit_effect": "neutral"
+    },
+    {
+        "track_genre": "british",
+        "non_explicit_count": 961,
+        "non_explicit_avg": 43.57648283038502,
+        "explicit_count": 39,
+        "explicit_avg": 49.35897435897436,
+        "explicit_popularity_corr": 0.04775496344377743,
+        "popularity_diff": 5.78249152858934,
+        "explicit_effect": "neutral"
+    },
+    {
+        "track_genre": "cantopop",
+        "non_explicit_count": 998,
+        "non_explicit_avg": 34.75751503006012,
+        "explicit_count": 2,
+        "explicit_avg": 25.5,
+        "explicit_popularity_corr": -0.030443066622499067,
+        "popularity_diff": -9.25751503006012,
+        "explicit_effect": "neutral"
+    },
+    {
+        "track_genre": "chicago-house",
+        "non_explicit_count": 982,
+        "non_explicit_avg": 12.371690427698574,
+        "explicit_count": 18,
+        "explicit_avg": 10.555555555555555,
+        "explicit_popularity_corr": -0.025212308871602064,
+        "popularity_diff": -1.816134872143019,
+        "explicit_effect": "neutral"
+    },
+    {
+        "track_genre": "children",
+        "non_explicit_count": 1000,
+        "non_explicit_avg": 35.047,
+        "explicit_count": null,
+        "explicit_avg": null,
+        "explicit_popularity_corr": null,
+        "popularity_diff": null,
+        "explicit_effect": "neutral"
+    },
+    {
+        "track_genre": "chill",
+        "non_explicit_count": 829,
+        "non_explicit_avg": 52.65741857659831,
+        "explicit_count": 171,
+        "explicit_avg": 58.46783625730994,
+        "explicit_popularity_corr": 0.14639343024646292,
+        "popularity_diff": 5.81041768071163,
+        "explicit_effect": "weak_positive"
+    },
+    {
+        "track_genre": "classical",
+        "non_explicit_count": 1000,
+        "non_explicit_avg": 13.055,
+        "explicit_count": null,
+        "explicit_avg": null,
+        "explicit_popularity_corr": null,
+        "popularity_diff": null,
+        "explicit_effect": "neutral"
+    },
+    {
+        "track_genre": "club",
+        "non_explicit_count": 915,
+        "non_explicit_avg": 33.51912568306011,
+        "explicit_count": 85,
+        "explicit_avg": 31.388235294117646,
+        "explicit_popularity_corr": -0.043961181228779324,
+        "popularity_diff": -2.130890388942465,
+        "explicit_effect": "neutral"
+    },
+    {
+        "track_genre": "comedy",
+        "non_explicit_count": 344,
+        "non_explicit_avg": 23.23546511627907,
+        "explicit_count": 656,
+        "explicit_avg": 25.358231707317074,
+        "explicit_popularity_corr": 0.13696551751706793,
+        "popularity_diff": 2.1227665910380047,
+        "explicit_effect": "weak_positive"
+    },
+    {
+        "track_genre": "country",
+        "non_explicit_count": 970,
+        "non_explicit_avg": 16.287628865979382,
+        "explicit_count": 30,
+        "explicit_avg": 40.96666666666667,
+        "explicit_popularity_corr": 0.15488974827099827,
+        "popularity_diff": 24.679037800687286,
+        "explicit_effect": "weak_positive"
+    },
+    {
+        "track_genre": "dance",
+        "non_explicit_count": 826,
+        "non_explicit_avg": 22.207021791767556,
+        "explicit_count": 174,
+        "explicit_avg": 24.982758620689655,
+        "explicit_popularity_corr": 0.03037450906901772,
+        "popularity_diff": 2.775736828922099,
+        "explicit_effect": "neutral"
+    },
+    {
+        "track_genre": "dancehall",
+        "non_explicit_count": 698,
+        "non_explicit_avg": 32.77077363896848,
+        "explicit_count": 302,
+        "explicit_avg": 35.07615894039735,
+        "explicit_popularity_corr": 0.049683519791087476,
+        "popularity_diff": 2.3053853014288705,
+        "explicit_effect": "neutral"
+    },
+    {
+        "track_genre": "death-metal",
+        "non_explicit_count": 749,
+        "non_explicit_avg": 32.38985313751669,
+        "explicit_count": 251,
+        "explicit_avg": 31.50996015936255,
+        "explicit_popularity_corr": -0.02701014938696449,
+        "popularity_diff": -0.8798929781541389,
+        "explicit_effect": "neutral"
+    },
+    {
+        "track_genre": "deep-house",
+        "non_explicit_count": 975,
+        "non_explicit_avg": 44.643076923076926,
+        "explicit_count": 25,
+        "explicit_avg": 51.24,
+        "explicit_popularity_corr": 0.05426255052383874,
+        "popularity_diff": 6.596923076923076,
+        "explicit_effect": "weak_positive"
+    },
+    {
+        "track_genre": "detroit-techno",
+        "non_explicit_count": 993,
+        "non_explicit_avg": 11.060422960725075,
+        "explicit_count": 7,
+        "explicit_avg": 27.285714285714285,
+        "explicit_popularity_corr": 0.1512342613471645,
+        "popularity_diff": 16.225291324989207,
+        "explicit_effect": "weak_positive"
+    },
+    {
+        "track_genre": "disco",
+        "non_explicit_count": 994,
+        "non_explicit_avg": 33.498993963782695,
+        "explicit_count": 6,
+        "explicit_avg": 37.333333333333336,
+        "explicit_popularity_corr": 0.011966841419469321,
+        "popularity_diff": 3.8343393695506407,
+        "explicit_effect": "neutral"
+    },
+    {
+        "track_genre": "disney",
+        "non_explicit_count": 999,
+        "non_explicit_avg": 27.545545545545547,
+        "explicit_count": 1,
+        "explicit_avg": 18.0,
+        "explicit_popularity_corr": -0.025082232254498255,
+        "popularity_diff": -9.545545545545547,
+        "explicit_effect": "neutral"
+    },
+    {
+        "track_genre": "drum-and-bass",
+        "non_explicit_count": 974,
+        "non_explicit_avg": 26.516427104722794,
+        "explicit_count": 26,
+        "explicit_avg": 31.923076923076923,
+        "explicit_popularity_corr": 0.05961286729700792,
+        "popularity_diff": 5.406649818354129,
+        "explicit_effect": "weak_positive"
+    },
+    {
+        "track_genre": "dub",
+        "non_explicit_count": 926,
+        "non_explicit_avg": 39.68034557235421,
+        "explicit_count": 74,
+        "explicit_avg": 44.527027027027025,
+        "explicit_popularity_corr": 0.08787290946838894,
+        "popularity_diff": 4.846681454672812,
+        "explicit_effect": "weak_positive"
+    },
+    {
+        "track_genre": "dubstep",
+        "non_explicit_count": 905,
+        "non_explicit_avg": 42.1767955801105,
+        "explicit_count": 95,
+        "explicit_avg": 43.65263157894737,
+        "explicit_popularity_corr": 0.03504610914617842,
+        "popularity_diff": 1.475835998836871,
+        "explicit_effect": "neutral"
+    },
+    {
+        "track_genre": "edm",
+        "non_explicit_count": 894,
+        "non_explicit_avg": 34.85906040268456,
+        "explicit_count": 106,
+        "explicit_avg": 36.490566037735846,
+        "explicit_popularity_corr": 0.015220874647549074,
+        "popularity_diff": 1.6315056350512833,
+        "explicit_effect": "neutral"
+    },
+    {
+        "track_genre": "electro",
+        "non_explicit_count": 847,
+        "non_explicit_avg": 34.04840613931523,
+        "explicit_count": 153,
+        "explicit_avg": 47.294117647058826,
+        "explicit_popularity_corr": 0.1384772234828166,
+        "popularity_diff": 13.245711507743593,
+        "explicit_effect": "weak_positive"
+    },
+    {
+        "track_genre": "electronic",
+        "non_explicit_count": 880,
+        "non_explicit_avg": 43.847727272727276,
+        "explicit_count": 120,
+        "explicit_avg": 47.825,
+        "explicit_popularity_corr": 0.07625735498710759,
+        "popularity_diff": 3.9772727272727266,
+        "explicit_effect": "weak_positive"
+    },
+    {
+        "track_genre": "emo",
+        "non_explicit_count": 535,
+        "non_explicit_avg": 43.413084112149534,
+        "explicit_count": 465,
+        "explicit_avg": 53.55268817204301,
+        "explicit_popularity_corr": 0.2877092515809078,
+        "popularity_diff": 10.139604059893479,
+        "explicit_effect": "strong_positive"
+    },
+    {
+        "track_genre": "folk",
+        "non_explicit_count": 994,
+        "non_explicit_avg": 38.100603621730386,
+        "explicit_count": 6,
+        "explicit_avg": 22.333333333333332,
+        "explicit_popularity_corr": -0.050615069953327735,
+        "popularity_diff": -15.767270288397054,
+        "explicit_effect": "weak_negative"
+    },
+    {
+        "track_genre": "forro",
+        "non_explicit_count": 982,
+        "non_explicit_avg": 41.82892057026476,
+        "explicit_count": 18,
+        "explicit_avg": 41.666666666666664,
+        "explicit_popularity_corr": -0.00524062055950244,
+        "popularity_diff": -0.16225390359809921,
+        "explicit_effect": "neutral"
+    },
+    {
+        "track_genre": "french",
+        "non_explicit_count": 781,
+        "non_explicit_avg": 43.081946222791295,
+        "explicit_count": 219,
+        "explicit_avg": 33.881278538812786,
+        "explicit_popularity_corr": -0.20194602245670498,
+        "popularity_diff": -9.200667683978509,
+        "explicit_effect": "weak_negative"
+    },
+    {
+        "track_genre": "funk",
+        "non_explicit_count": 696,
+        "non_explicit_avg": 27.59051724137931,
+        "explicit_count": 304,
+        "explicit_avg": 43.1546052631579,
+        "explicit_popularity_corr": 0.2766979327184572,
+        "popularity_diff": 15.564088021778588,
+        "explicit_effect": "strong_positive"
+    },
+    {
+        "track_genre": "garage",
+        "non_explicit_count": 905,
+        "non_explicit_avg": 41.66077348066298,
+        "explicit_count": 95,
+        "explicit_avg": 34.0,
+        "explicit_popularity_corr": -0.12430012351936327,
+        "popularity_diff": -7.660773480662982,
+        "explicit_effect": "weak_negative"
+    },
+    {
+        "track_genre": "german",
+        "non_explicit_count": 873,
+        "non_explicit_avg": 24.95761741122566,
+        "explicit_count": 127,
+        "explicit_avg": 39.07874015748032,
+        "explicit_popularity_corr": 0.19654232693374502,
+        "popularity_diff": 14.12112274625466,
+        "explicit_effect": "weak_positive"
+    },
+    {
+        "track_genre": "gospel",
+        "non_explicit_count": 1000,
+        "non_explicit_avg": 41.639,
+        "explicit_count": null,
+        "explicit_avg": null,
+        "explicit_popularity_corr": null,
+        "popularity_diff": null,
+        "explicit_effect": "neutral"
+    },
+    {
+        "track_genre": "goth",
+        "non_explicit_count": 934,
+        "non_explicit_avg": 29.036402569593147,
+        "explicit_count": 66,
+        "explicit_avg": 27.166666666666668,
+        "explicit_popularity_corr": -0.03893780290917434,
+        "popularity_diff": -1.8697359029264788,
+        "explicit_effect": "neutral"
+    },
+    {
+        "track_genre": "grindcore",
+        "non_explicit_count": 847,
+        "non_explicit_avg": 14.569067296340023,
+        "explicit_count": 153,
+        "explicit_avg": 14.934640522875817,
+        "explicit_popularity_corr": 0.02926047044366028,
+        "popularity_diff": 0.36557322653579405,
+        "explicit_effect": "neutral"
+    },
+    {
+        "track_genre": "groove",
+        "non_explicit_count": 903,
+        "non_explicit_avg": 36.799557032115175,
+        "explicit_count": 97,
+        "explicit_avg": 47.371134020618555,
+        "explicit_popularity_corr": 0.1616916014481562,
+        "popularity_diff": 10.57157698850338,
+        "explicit_effect": "weak_positive"
+    },
+    {
+        "track_genre": "grunge",
+        "non_explicit_count": 928,
+        "non_explicit_avg": 49.50969827586207,
+        "explicit_count": 72,
+        "explicit_avg": 50.68055555555556,
+        "explicit_popularity_corr": 0.016377758441797792,
+        "popularity_diff": 1.170857279693486,
+        "explicit_effect": "neutral"
+    },
+    {
+        "track_genre": "guitar",
+        "non_explicit_count": 998,
+        "non_explicit_avg": 29.521042084168336,
+        "explicit_count": 2,
+        "explicit_avg": 32.0,
+        "explicit_popularity_corr": 0.009857010336239739,
+        "popularity_diff": 2.478957915831664,
+        "explicit_effect": "neutral"
+    },
+    {
+        "track_genre": "happy",
+        "non_explicit_count": 874,
+        "non_explicit_avg": 21.740274599542335,
+        "explicit_count": 126,
+        "explicit_avg": 21.547619047619047,
+        "explicit_popularity_corr": -0.00598985288124918,
+        "popularity_diff": -0.19265555192328776,
+        "explicit_effect": "neutral"
+    },
+    {
+        "track_genre": "hard-rock",
+        "non_explicit_count": 951,
+        "non_explicit_avg": 42.23133543638276,
+        "explicit_count": 49,
+        "explicit_avg": 53.326530612244895,
+        "explicit_popularity_corr": 0.09480348519117693,
+        "popularity_diff": 11.095195175862138,
+        "explicit_effect": "weak_positive"
+    },
+    {
+        "track_genre": "hardcore",
+        "non_explicit_count": 675,
+        "non_explicit_avg": 33.24,
+        "explicit_count": 325,
+        "explicit_avg": 42.05538461538462,
+        "explicit_popularity_corr": 0.22315013034928977,
+        "popularity_diff": 8.815384615384616,
+        "explicit_effect": "weak_positive"
+    },
+    {
+        "track_genre": "hardstyle",
+        "non_explicit_count": 904,
+        "non_explicit_avg": 26.629424778761063,
+        "explicit_count": 96,
+        "explicit_avg": 26.5625,
+        "explicit_popularity_corr": -0.0013711109506462872,
+        "popularity_diff": -0.06692477876106295,
+        "explicit_effect": "neutral"
+    },
+    {
+        "track_genre": "heavy-metal",
+        "non_explicit_count": 917,
+        "non_explicit_avg": 26.24318429661941,
+        "explicit_count": 83,
+        "explicit_avg": 26.03614457831325,
+        "explicit_popularity_corr": -0.006845831500449665,
+        "popularity_diff": -0.20703971830615941,
+        "explicit_effect": "neutral"
+    },
+    {
+        "track_genre": "hip-hop",
+        "non_explicit_count": 681,
+        "non_explicit_avg": 44.53891336270191,
+        "explicit_count": 319,
+        "explicit_avg": 23.28526645768025,
+        "explicit_popularity_corr": -0.3044785754122359,
+        "popularity_diff": -21.25364690502166,
+        "explicit_effect": "strong_negative"
+    },
+    {
+        "track_genre": "honky-tonk",
+        "non_explicit_count": 1000,
+        "non_explicit_avg": 16.355,
+        "explicit_count": null,
+        "explicit_avg": null,
+        "explicit_popularity_corr": null,
+        "popularity_diff": null,
+        "explicit_effect": "neutral"
+    },
+    {
+        "track_genre": "house",
+        "non_explicit_count": 893,
+        "non_explicit_avg": 33.068309070548715,
+        "explicit_count": 107,
+        "explicit_avg": 43.23364485981308,
+        "explicit_popularity_corr": 0.09180885591266841,
+        "popularity_diff": 10.165335789264368,
+        "explicit_effect": "weak_positive"
+    },
+    {
+        "track_genre": "idm",
+        "non_explicit_count": 986,
+        "non_explicit_avg": 15.761663286004056,
+        "explicit_count": 14,
+        "explicit_avg": 16.071428571428573,
+        "explicit_popularity_corr": 0.0035451028148618673,
+        "popularity_diff": 0.30976528542451653,
+        "explicit_effect": "neutral"
+    },
+    {
+        "track_genre": "indian",
+        "non_explicit_count": 976,
+        "non_explicit_avg": 49.82479508196721,
+        "explicit_count": 24,
+        "explicit_avg": 37.916666666666664,
+        "explicit_popularity_corr": -0.16070364634451104,
+        "popularity_diff": -11.908128415300546,
+        "explicit_effect": "weak_negative"
+    },
+    {
+        "track_genre": "indie",
+        "non_explicit_count": 916,
+        "non_explicit_avg": 38.30786026200873,
+        "explicit_count": 84,
+        "explicit_avg": 45.29761904761905,
+        "explicit_popularity_corr": 0.06436321708116079,
+        "popularity_diff": 6.98975878561032,
+        "explicit_effect": "weak_positive"
+    },
+    {
+        "track_genre": "indie-pop",
+        "non_explicit_count": 893,
+        "non_explicit_avg": 39.56550951847704,
+        "explicit_count": 107,
+        "explicit_avg": 49.76635514018692,
+        "explicit_popularity_corr": 0.10780562280880158,
+        "popularity_diff": 10.200845621709874,
+        "explicit_effect": "weak_positive"
+    },
+    {
+        "track_genre": "industrial",
+        "non_explicit_count": 764,
+        "non_explicit_avg": 30.54973821989529,
+        "explicit_count": 236,
+        "explicit_avg": 32.63135593220339,
+        "explicit_popularity_corr": 0.0495127645419193,
+        "popularity_diff": 2.081617712308102,
+        "explicit_effect": "neutral"
+    },
+    {
+        "track_genre": "iranian",
+        "non_explicit_count": 920,
+        "non_explicit_avg": 2.232608695652174,
+        "explicit_count": 80,
+        "explicit_avg": 1.95,
+        "explicit_popularity_corr": -0.01837706645162602,
+        "popularity_diff": -0.28260869565217406,
+        "explicit_effect": "neutral"
+    },
+    {
+        "track_genre": "j-dance",
+        "non_explicit_count": 609,
+        "non_explicit_avg": 27.01806239737274,
+        "explicit_count": 391,
+        "explicit_avg": 26.092071611253196,
+        "explicit_popularity_corr": -0.03519369988449851,
+        "popularity_diff": -0.9259907861195451,
+        "explicit_effect": "neutral"
+    },
+    {
+        "track_genre": "j-idol",
+        "non_explicit_count": 999,
+        "non_explicit_avg": 24.68168168168168,
+        "explicit_count": 1,
+        "explicit_avg": 50.0,
+        "explicit_popularity_corr": 0.09663212893961613,
+        "popularity_diff": 25.31831831831832,
+        "explicit_effect": "weak_positive"
+    },
+    {
+        "track_genre": "j-pop",
+        "non_explicit_count": 988,
+        "non_explicit_avg": 41.034412955465584,
+        "explicit_count": 12,
+        "explicit_avg": 50.083333333333336,
+        "explicit_popularity_corr": 0.04485934850150311,
+        "popularity_diff": 9.048920377867752,
+        "explicit_effect": "neutral"
+    },
+    {
+        "track_genre": "j-rock",
+        "non_explicit_count": 983,
+        "non_explicit_avg": 40.74465920651068,
+        "explicit_count": 17,
+        "explicit_avg": 36.0,
+        "explicit_popularity_corr": -0.0435533713120414,
+        "popularity_diff": -4.744659206510683,
+        "explicit_effect": "neutral"
+    },
+    {
+        "track_genre": "jazz",
+        "non_explicit_count": 997,
+        "non_explicit_avg": 13.626880641925778,
+        "explicit_count": 3,
+        "explicit_avg": 14.0,
+        "explicit_popularity_corr": 0.0008806541722507309,
+        "popularity_diff": 0.3731193580742218,
+        "explicit_effect": "neutral"
+    },
+    {
+        "track_genre": "k-pop",
+        "non_explicit_count": 951,
+        "non_explicit_avg": 58.77287066246057,
+        "explicit_count": 49,
+        "explicit_avg": 20.46938775510204,
+        "explicit_popularity_corr": -0.48816308551571386,
+        "popularity_diff": -38.30348290735853,
+        "explicit_effect": "strong_negative"
+    },
+    {
+        "track_genre": "kids",
+        "non_explicit_count": 992,
+        "non_explicit_avg": 14.880040322580646,
+        "explicit_count": 8,
+        "explicit_avg": 15.875,
+        "explicit_popularity_corr": 0.009597061344642962,
+        "popularity_diff": 0.9949596774193541,
+        "explicit_effect": "neutral"
+    },
+    {
+        "track_genre": "latin",
+        "non_explicit_count": 867,
+        "non_explicit_avg": 7.89042675893887,
+        "explicit_count": 133,
+        "explicit_avg": 10.947368421052632,
+        "explicit_popularity_corr": 0.04728995882384551,
+        "popularity_diff": 3.056941662113762,
+        "explicit_effect": "neutral"
+    },
+    {
+        "track_genre": "latino",
+        "non_explicit_count": 751,
+        "non_explicit_avg": 22.854860186418108,
+        "explicit_count": 249,
+        "explicit_avg": 34.10441767068273,
+        "explicit_popularity_corr": 0.1531293208809518,
+        "popularity_diff": 11.24955748426462,
+        "explicit_effect": "weak_positive"
+    },
+    {
+        "track_genre": "malay",
+        "non_explicit_count": 964,
+        "non_explicit_avg": 30.473029045643152,
+        "explicit_count": 36,
+        "explicit_avg": 27.27777777777778,
+        "explicit_popularity_corr": -0.05558806412404624,
+        "popularity_diff": -3.1952512678653733,
+        "explicit_effect": "weak_negative"
+    },
+    {
+        "track_genre": "mandopop",
+        "non_explicit_count": 992,
+        "non_explicit_avg": 45.002016129032256,
+        "explicit_count": 8,
+        "explicit_avg": 47.875,
+        "explicit_popularity_corr": 0.01974563645411267,
+        "popularity_diff": 2.8729838709677438,
+        "explicit_effect": "neutral"
+    },
+    {
+        "track_genre": "metal",
+        "non_explicit_count": 858,
+        "non_explicit_avg": 42.37645687645688,
+        "explicit_count": 142,
+        "explicit_avg": 51.732394366197184,
+        "explicit_popularity_corr": 0.1089555724893961,
+        "popularity_diff": 9.355937489740306,
+        "explicit_effect": "weak_positive"
+    },
+    {
+        "track_genre": "metalcore",
+        "non_explicit_count": 709,
+        "non_explicit_avg": 42.05077574047955,
+        "explicit_count": 291,
+        "explicit_avg": 46.95189003436426,
+        "explicit_popularity_corr": 0.12463719866803379,
+        "popularity_diff": 4.90111429388471,
+        "explicit_effect": "weak_positive"
+    },
+    {
+        "track_genre": "minimal-techno",
+        "non_explicit_count": 996,
+        "non_explicit_avg": 33.98694779116466,
+        "explicit_count": 4,
+        "explicit_avg": 42.75,
+        "explicit_popularity_corr": 0.03504675407070441,
+        "popularity_diff": 8.76305220883534,
+        "explicit_effect": "neutral"
+    },
+    {
+        "track_genre": "mpb",
+        "non_explicit_count": 995,
+        "non_explicit_avg": 40.779899497487435,
+        "explicit_count": 5,
+        "explicit_avg": 43.2,
+        "explicit_popularity_corr": 0.0190004676664079,
+        "popularity_diff": 2.420100502512568,
+        "explicit_effect": "neutral"
+    },
+    {
+        "track_genre": "new-age",
+        "non_explicit_count": 995,
+        "non_explicit_avg": 29.163819095477386,
+        "explicit_count": 5,
+        "explicit_avg": 9.4,
+        "explicit_popularity_corr": -0.10934517133678244,
+        "popularity_diff": -19.763819095477388,
+        "explicit_effect": "weak_negative"
+    },
+    {
+        "track_genre": "opera",
+        "non_explicit_count": 999,
+        "non_explicit_avg": 24.62162162162162,
+        "explicit_count": 1,
+        "explicit_avg": 24.0,
+        "explicit_popularity_corr": -0.0013935380889607716,
+        "popularity_diff": -0.621621621621621,
+        "explicit_effect": "neutral"
+    },
+    {
+        "track_genre": "pagode",
+        "non_explicit_count": 985,
+        "non_explicit_avg": 44.41725888324873,
+        "explicit_count": 15,
+        "explicit_avg": 36.46666666666667,
+        "explicit_popularity_corr": -0.10247008420224901,
+        "popularity_diff": -7.950592216582059,
+        "explicit_effect": "weak_negative"
+    },
+    {
+        "track_genre": "party",
+        "non_explicit_count": 955,
+        "non_explicit_avg": 20.680628272251308,
+        "explicit_count": 45,
+        "explicit_avg": 27.377777777777776,
+        "explicit_popularity_corr": 0.09773172232447785,
+        "popularity_diff": 6.697149505526468,
+        "explicit_effect": "weak_positive"
+    },
+    {
+        "track_genre": "piano",
+        "non_explicit_count": 988,
+        "non_explicit_avg": 45.34109311740891,
+        "explicit_count": 12,
+        "explicit_avg": 39.666666666666664,
+        "explicit_popularity_corr": -0.030211755568434532,
+        "popularity_diff": -5.674426450742246,
+        "explicit_effect": "neutral"
+    },
+    {
+        "track_genre": "pop",
+        "non_explicit_count": 926,
+        "non_explicit_avg": 47.02699784017279,
+        "explicit_count": 74,
+        "explicit_avg": 54.445945945945944,
+        "explicit_popularity_corr": 0.057080203255969554,
+        "popularity_diff": 7.418948105773154,
+        "explicit_effect": "weak_positive"
+    },
+    {
+        "track_genre": "pop-film",
+        "non_explicit_count": 999,
+        "non_explicit_avg": 59.271271271271274,
+        "explicit_count": 1,
+        "explicit_avg": 71.0,
+        "explicit_popularity_corr": 0.036187034463244394,
+        "popularity_diff": 11.728728728728726,
+        "explicit_effect": "neutral"
+    },
+    {
+        "track_genre": "power-pop",
+        "non_explicit_count": 967,
+        "non_explicit_avg": 26.857290589451914,
+        "explicit_count": 33,
+        "explicit_avg": 28.09090909090909,
+        "explicit_popularity_corr": 0.015184974457372297,
+        "popularity_diff": 1.233618501457176,
+        "explicit_effect": "neutral"
+    },
+    {
+        "track_genre": "progressive-house",
+        "non_explicit_count": 948,
+        "non_explicit_avg": 46.222573839662445,
+        "explicit_count": 52,
+        "explicit_avg": 53.76923076923077,
+        "explicit_popularity_corr": 0.0830368913256848,
+        "popularity_diff": 7.5466569295683215,
+        "explicit_effect": "weak_positive"
+    },
+    {
+        "track_genre": "psych-rock",
+        "non_explicit_count": 985,
+        "non_explicit_avg": 42.81725888324873,
+        "explicit_count": 15,
+        "explicit_avg": 40.2,
+        "explicit_popularity_corr": -0.014463177270747671,
+        "popularity_diff": -2.6172588832487307,
+        "explicit_effect": "neutral"
+    },
+    {
+        "track_genre": "punk",
+        "non_explicit_count": 894,
+        "non_explicit_avg": 37.46308724832215,
+        "explicit_count": 106,
+        "explicit_avg": 45.27358490566038,
+        "explicit_popularity_corr": 0.1077092676037775,
+        "popularity_diff": 7.810497657338232,
+        "explicit_effect": "weak_positive"
+    },
+    {
+        "track_genre": "punk-rock",
+        "non_explicit_count": 920,
+        "non_explicit_avg": 38.16195652173913,
+        "explicit_count": 80,
+        "explicit_avg": 39.0875,
+        "explicit_popularity_corr": 0.013359290552087464,
+        "popularity_diff": 0.9255434782608702,
+        "explicit_effect": "neutral"
+    },
+    {
+        "track_genre": "r-n-b",
+        "non_explicit_count": 912,
+        "non_explicit_avg": 35.708333333333336,
+        "explicit_count": 88,
+        "explicit_avg": 46.82954545454545,
+        "explicit_popularity_corr": 0.15517230747511598,
+        "popularity_diff": 11.121212121212118,
+        "explicit_effect": "weak_positive"
+    },
+    {
+        "track_genre": "reggae",
+        "non_explicit_count": 833,
+        "non_explicit_avg": 20.735894357743096,
+        "explicit_count": 167,
+        "explicit_avg": 20.101796407185628,
+        "explicit_popularity_corr": -0.008095272667375112,
+        "popularity_diff": -0.634097950557468,
+        "explicit_effect": "neutral"
+    },
+    {
+        "track_genre": "reggaeton",
+        "non_explicit_count": 788,
+        "non_explicit_avg": 22.18020304568528,
+        "explicit_count": 212,
+        "explicit_avg": 30.09433962264151,
+        "explicit_popularity_corr": 0.10296783042512524,
+        "popularity_diff": 7.914136576956231,
+        "explicit_effect": "weak_positive"
+    },
+    {
+        "track_genre": "rock",
+        "non_explicit_count": 957,
+        "non_explicit_avg": 18.62591431556949,
+        "explicit_count": 43,
+        "explicit_avg": 27.348837209302324,
+        "explicit_popularity_corr": 0.054407048988380564,
+        "popularity_diff": 8.722922893732836,
+        "explicit_effect": "weak_positive"
+    },
+    {
+        "track_genre": "rock-n-roll",
+        "non_explicit_count": 998,
+        "non_explicit_avg": 34.44488977955912,
+        "explicit_count": 2,
+        "explicit_avg": 29.0,
+        "explicit_popularity_corr": -0.014347754638997312,
+        "popularity_diff": -5.444889779559119,
+        "explicit_effect": "neutral"
+    },
+    {
+        "track_genre": "rockabilly",
+        "non_explicit_count": 995,
+        "non_explicit_avg": 31.526633165829146,
+        "explicit_count": 5,
+        "explicit_avg": 26.2,
+        "explicit_popularity_corr": -0.019688775884101523,
+        "popularity_diff": -5.326633165829147,
+        "explicit_effect": "neutral"
+    },
+    {
+        "track_genre": "romance",
+        "non_explicit_count": 996,
+        "non_explicit_avg": 3.2580321285140563,
+        "explicit_count": 4,
+        "explicit_avg": 0.0,
+        "explicit_popularity_corr": -0.03267684784160766,
+        "popularity_diff": -3.2580321285140563,
+        "explicit_effect": "neutral"
+    },
+    {
+        "track_genre": "sad",
+        "non_explicit_count": 550,
+        "non_explicit_avg": 51.96545454545455,
+        "explicit_count": 450,
+        "explicit_avg": 52.88444444444445,
+        "explicit_popularity_corr": 0.03980076373296098,
+        "popularity_diff": 0.9189898989898992,
+        "explicit_effect": "neutral"
+    },
+    {
+        "track_genre": "salsa",
+        "non_explicit_count": 997,
+        "non_explicit_avg": 28.05616850551655,
+        "explicit_count": 3,
+        "explicit_avg": 31.333333333333332,
+        "explicit_popularity_corr": 0.01668835090389361,
+        "popularity_diff": 3.277164827816783,
+        "explicit_effect": "neutral"
+    },
+    {
+        "track_genre": "samba",
+        "non_explicit_count": 998,
+        "non_explicit_avg": 38.81963927855711,
+        "explicit_count": 2,
+        "explicit_avg": 42.0,
+        "explicit_popularity_corr": 0.019926035077546086,
+        "popularity_diff": 3.180360721442888,
+        "explicit_effect": "neutral"
+    },
+    {
+        "track_genre": "sertanejo",
+        "non_explicit_count": 994,
+        "non_explicit_avg": 47.86619718309859,
+        "explicit_count": 6,
+        "explicit_avg": 47.833333333333336,
+        "explicit_popularity_corr": -0.0006438979355875287,
+        "popularity_diff": -0.03286384976525625,
+        "explicit_effect": "neutral"
+    },
+    {
+        "track_genre": "show-tunes",
+        "non_explicit_count": 982,
+        "non_explicit_avg": 30.91446028513238,
+        "explicit_count": 18,
+        "explicit_avg": 49.333333333333336,
+        "explicit_popularity_corr": 0.15028648907907746,
+        "popularity_diff": 18.418873048200954,
+        "explicit_effect": "weak_positive"
+    },
+    {
+        "track_genre": "singer-songwriter",
+        "non_explicit_count": 953,
+        "non_explicit_avg": 38.03777544596013,
+        "explicit_count": 47,
+        "explicit_avg": 33.255319148936174,
+        "explicit_popularity_corr": -0.03656973309343952,
+        "popularity_diff": -4.7824562970239555,
+        "explicit_effect": "neutral"
+    },
+    {
+        "track_genre": "ska",
+        "non_explicit_count": 976,
+        "non_explicit_avg": 35.10245901639344,
+        "explicit_count": 24,
+        "explicit_avg": 36.083333333333336,
+        "explicit_popularity_corr": 0.014250852899241995,
+        "popularity_diff": 0.9808743169398966,
+        "explicit_effect": "neutral"
+    },
+    {
+        "track_genre": "sleep",
+        "non_explicit_count": 1000,
+        "non_explicit_avg": 35.071,
+        "explicit_count": null,
+        "explicit_avg": null,
+        "explicit_popularity_corr": null,
+        "popularity_diff": null,
+        "explicit_effect": "neutral"
+    },
+    {
+        "track_genre": "songwriter",
+        "non_explicit_count": 953,
+        "non_explicit_avg": 38.03777544596013,
+        "explicit_count": 47,
+        "explicit_avg": 33.255319148936174,
+        "explicit_popularity_corr": -0.036569733093439555,
+        "popularity_diff": -4.7824562970239555,
+        "explicit_effect": "neutral"
+    },
+    {
+        "track_genre": "soul",
+        "non_explicit_count": 896,
+        "non_explicit_avg": 17.152901785714285,
+        "explicit_count": 104,
+        "explicit_avg": 42.55769230769231,
+        "explicit_popularity_corr": 0.2562777351378632,
+        "popularity_diff": 25.404790521978022,
+        "explicit_effect": "strong_positive"
+    },
+    {
+        "track_genre": "spanish",
+        "non_explicit_count": 962,
+        "non_explicit_avg": 38.012474012474016,
+        "explicit_count": 38,
+        "explicit_avg": 35.63157894736842,
+        "explicit_popularity_corr": -0.022204762759906245,
+        "popularity_diff": -2.380895065105598,
+        "explicit_effect": "neutral"
+    },
+    {
+        "track_genre": "study",
+        "non_explicit_count": 1000,
+        "non_explicit_avg": 26.108,
+        "explicit_count": null,
+        "explicit_avg": null,
+        "explicit_popularity_corr": null,
+        "popularity_diff": null,
+        "explicit_effect": "neutral"
+    },
+    {
+        "track_genre": "swedish",
+        "non_explicit_count": 905,
+        "non_explicit_avg": 36.988950276243095,
+        "explicit_count": 95,
+        "explicit_avg": 38.94736842105263,
+        "explicit_popularity_corr": 0.028022308232577807,
+        "popularity_diff": 1.958418144809535,
+        "explicit_effect": "neutral"
+    },
+    {
+        "track_genre": "synth-pop",
+        "non_explicit_count": 956,
+        "non_explicit_avg": 36.09414225941423,
+        "explicit_count": 44,
+        "explicit_avg": 47.04545454545455,
+        "explicit_popularity_corr": 0.10689876968071473,
+        "popularity_diff": 10.95131228604032,
+        "explicit_effect": "weak_positive"
+    },
+    {
+        "track_genre": "tango",
+        "non_explicit_count": 1000,
+        "non_explicit_avg": 19.871,
+        "explicit_count": null,
+        "explicit_avg": null,
+        "explicit_popularity_corr": null,
+        "popularity_diff": null,
+        "explicit_effect": "neutral"
+    },
+    {
+        "track_genre": "techno",
+        "non_explicit_count": 974,
+        "non_explicit_avg": 38.935318275154,
+        "explicit_count": 26,
+        "explicit_avg": 43.03846153846154,
+        "explicit_popularity_corr": 0.03812894268721056,
+        "popularity_diff": 4.103143263307537,
+        "explicit_effect": "neutral"
+    },
+    {
+        "track_genre": "trance",
+        "non_explicit_count": 978,
+        "non_explicit_avg": 37.53169734151329,
+        "explicit_count": 22,
+        "explicit_avg": 42.22727272727273,
+        "explicit_popularity_corr": 0.040311080422204645,
+        "popularity_diff": 4.695575385759433,
+        "explicit_effect": "neutral"
+    },
+    {
+        "track_genre": "trip-hop",
+        "non_explicit_count": 955,
+        "non_explicit_avg": 34.541361256544505,
+        "explicit_count": 45,
+        "explicit_avg": 32.733333333333334,
+        "explicit_popularity_corr": -0.022636244557948562,
+        "popularity_diff": -1.8080279232111707,
+        "explicit_effect": "neutral"
+    },
+    {
+        "track_genre": "turkish",
+        "non_explicit_count": 782,
+        "non_explicit_avg": 40.96419437340153,
+        "explicit_count": 218,
+        "explicit_avg": 39.74311926605505,
+        "explicit_popularity_corr": -0.0631151656192928,
+        "popularity_diff": -1.2210751073464863,
+        "explicit_effect": "weak_negative"
+    },
+    {
+        "track_genre": "world-music",
+        "non_explicit_count": 1000,
+        "non_explicit_avg": 41.873,
+        "explicit_count": null,
+        "explicit_avg": null,
+        "explicit_popularity_corr": null,
+        "popularity_diff": null,
+        "explicit_effect": "neutral"
+    }
+]

@@ -1,0 +1,107 @@
+[
+    {
+        "track_genre": "chill",
+        "tempo_range": "high",
+        "avg_genre_popularity": 53.651,
+        "song_count": 419,
+        "avg_song_popularity": 54.02863961813843
+    },
+    {
+        "track_genre": "chill",
+        "tempo_range": "low",
+        "avg_genre_popularity": 53.651,
+        "song_count": 343,
+        "avg_song_popularity": 53.07871720116618
+    },
+    {
+        "track_genre": "chill",
+        "tempo_range": "mid",
+        "avg_genre_popularity": 53.651,
+        "song_count": 238,
+        "avg_song_popularity": 53.8109243697479
+    },
+    {
+        "track_genre": "grunge",
+        "tempo_range": "high",
+        "avg_genre_popularity": 49.594,
+        "song_count": 590,
+        "avg_song_popularity": 49.60508474576271
+    },
+    {
+        "track_genre": "grunge",
+        "tempo_range": "low",
+        "avg_genre_popularity": 49.594,
+        "song_count": 207,
+        "avg_song_popularity": 46.35748792270532
+    },
+    {
+        "track_genre": "grunge",
+        "tempo_range": "mid",
+        "avg_genre_popularity": 49.594,
+        "song_count": 203,
+        "avg_song_popularity": 52.86206896551724
+    },
+    {
+        "track_genre": "k-pop",
+        "tempo_range": "high",
+        "avg_genre_popularity": 56.896,
+        "song_count": 458,
+        "avg_song_popularity": 58.851528384279476
+    },
+    {
+        "track_genre": "k-pop",
+        "tempo_range": "low",
+        "avg_genre_popularity": 56.896,
+        "song_count": 282,
+        "avg_song_popularity": 55.255319148936174
+    },
+    {
+        "track_genre": "k-pop",
+        "tempo_range": "mid",
+        "avg_genre_popularity": 56.896,
+        "song_count": 260,
+        "avg_song_popularity": 55.23076923076923
+    },
+    {
+        "track_genre": "pop-film",
+        "tempo_range": "high",
+        "avg_genre_popularity": 59.283,
+        "song_count": 425,
+        "avg_song_popularity": 59.51529411764706
+    },
+    {
+        "track_genre": "pop-film",
+        "tempo_range": "low",
+        "avg_genre_popularity": 59.283,
+        "song_count": 333,
+        "avg_song_popularity": 58.56456456456456
+    },
+    {
+        "track_genre": "pop-film",
+        "tempo_range": "mid",
+        "avg_genre_popularity": 59.283,
+        "song_count": 242,
+        "avg_song_popularity": 59.86363636363637
+    },
+    {
+        "track_genre": "sad",
+        "tempo_range": "high",
+        "avg_genre_popularity": 52.379,
+        "song_count": 462,
+        "avg_song_popularity": 51.87662337662338
+    },
+    {
+        "track_genre": "sad",
+        "tempo_range": "low",
+        "avg_genre_popularity": 52.379,
+        "song_count": 318,
+        "avg_song_popularity": 50.729559748427675
+    },
+    {
+        "track_genre": "sad",
+        "tempo_range": "mid",
+        "avg_genre_popularity": 52.379,
+        "song_count": 220,
+        "avg_song_popularity": 55.81818181818182
+    }
+]

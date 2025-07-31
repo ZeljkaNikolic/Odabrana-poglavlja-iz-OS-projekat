@@ -1,0 +1,27 @@
+{
+    "tip": "String",
+    "broj_null_vrijednosti": 0,
+    "broj_razlicitih_vrijednosti": 89741,
+    "top_5_frekventnih": [
+        {
+            "track_id": "6S3JlDAGk3uu3NtZbPnuhS",
+            "count": 9
+        },
+        {
+            "track_id": "2Ey6v4Sekh3Z0RUSISRosD",
+            "count": 8
+        },
+        {
+            "track_id": "2kkvB3RNRzwjFdGhaUA0tz",
+            "count": 8
+        },
+        {
+            "track_id": "54zCdkbIALAnv8Ihi3XWlD",
+            "count": 7
+        },
+        {
+            "track_id": "4WJTKbNJQ41zXnb84jSWaj",
+            "count": 7
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "tip": "String",
+    "broj_null_vrijednosti": 1,
+    "broj_razlicitih_vrijednosti": 31438,
+    "top_5_frekventnih": [
+        {
+            "artists": "The Beatles",
+            "count": 279
+        },
+        {
+            "artists": "George Jones",
+            "count": 271
+        },
+        {
+            "artists": "Stevie Wonder",
+            "count": 236
+        },
+        {
+            "artists": "Linkin Park",
+            "count": 224
+        },
+        {
+            "artists": "Ella Fitzgerald",
+            "count": 222
+        }
+    ]
+}
